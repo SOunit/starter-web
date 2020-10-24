@@ -1,4 +1,4 @@
-This is new text!
+This is new new new text!
 This is additional line!
 This is text for check diff!
 This is check diff too! only working space!
