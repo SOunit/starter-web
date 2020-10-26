@@ -9,3 +9,6 @@ Sample website with plenty of files for demos
 
 # THANKS
 	All my students 
+
+# Stash test
+	adding some content for stashing test.
