@@ -1,3 +1,4 @@
+test for stash, from stash to branch
 This is latest text!
 This is additional line!
 This is text for check diff!
